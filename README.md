@@ -26,7 +26,7 @@ detection_automation/
 ### 1. Clone the repo and enter the directory
 
 ```bash
-git clone https://github.com/yourusername/detection_automation.git
+git clone https://github.com/YousufOwolabi/detection_automation.git
 cd detection_automation
 2. Populate the test log
 
